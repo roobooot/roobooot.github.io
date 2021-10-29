@@ -199,3 +199,7 @@
 .article li ul, .article li ol { padding-left: 16px; margin-bottom: 0px; }
 
 .min-height-full { min-height: 100vh; }
+
+.post img { object-fit: cover; }
+
+img { object-fit: cover; }

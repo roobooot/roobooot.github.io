@@ -1,3 +1,6 @@
+This website is built upon [this repo](https://github.com/github/personal-website),
+but it is temporary!
+I will build it by my own. 
 # Get started building your personal website
 
 ### Showcase your software development skills
