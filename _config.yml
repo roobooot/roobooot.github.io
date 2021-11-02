@@ -29,6 +29,7 @@ projects:
     # - repo-name
 
 social_media:
+  google_scholar: https://scholar.google.com/citations?user=1TXnPsYAAAAJ&hl=en
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -43,14 +44,17 @@ social_media:
   twitter: Zachary__Lu
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  
   # youtube: your_username
+  website: http://roobooot.github.io
 
 topics:
-  - name: Google Scholar
-    web_url: https://scholar.google.com/citations?user=1TXnPsYAAAAJ&hl=en
+  - name: Professional
+    web_url: /news/profession
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png
-
+  - name: Personal
+    web_url: /about
+    image_url: https://bnz05pap001files.storage.live.com/y4mB0-KdEyWDioKfSw-YvVgxntmFjJKZvAN29qOfy89b20zCdhDAFENApyn1zC11zsEjbYGkufKDcWHnvtf-Di2TMVJOTDUpeauW_kBmxebLUfzxsRKUSa0gbZva38HEXMB1gxcPOZJ51GcwCE9i3hM8wvM7gK7_OIaQGL-kjIYGU95KC6xoY-EEDpDUowzT-ez?width=1024&height=576&cropmode=none
 
 
 theme: jekyll-theme-tactile
