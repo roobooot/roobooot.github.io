@@ -8,24 +8,25 @@
     {{ content }}
   </div>
 
-  <!-- <div class="my-6">
-      {% include projects.html %}
-    </div> -->
+<!--  <div class="my-6">-->
+<!--      {% include projects.html %}-->
+<!--  </div>-->
+
 
   <div class="my-6">
     {% include analytics.html %}
   </div>
-
-  {% if site.topics %}
   <div class="my-6">
     {% include interests.html %}
   </div>
+  {% if site.topics %}
+
   {% endif %}
 
   {% unless posts_total == 0 %}
-  <div class="my-6">
-    {% include thoughts.html %}
-  </div>
+<!--  <div class="my-6">-->
+<!--    {% include thoughts.html %}-->
+<!--  </div>-->
   {% endunless %}
 </div>
 {% else %}

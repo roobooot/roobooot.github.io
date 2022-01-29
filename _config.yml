@@ -39,22 +39,20 @@ social_media:
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
-  stackoverflow: 12912214
+#  stackoverflow: 12912214
   # telegram: your_username
   twitter: Zachary__Lu
   # unsplash: your_username
   # vk: your_username
-  
-  # youtube: your_username
+  youtube: channel/UCK_TeWk6JFdWDFgm9uod50A
   website: http://roobooot.github.io
 
 topics:
-  - name: Professional
-    web_url: /news/profession
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png
-  - name: Personal
-    web_url: /about
-    image_url: https://bnz05pap001files.storage.live.com/y4mB0-KdEyWDioKfSw-YvVgxntmFjJKZvAN29qOfy89b20zCdhDAFENApyn1zC11zsEjbYGkufKDcWHnvtf-Di2TMVJOTDUpeauW_kBmxebLUfzxsRKUSa0gbZva38HEXMB1gxcPOZJ51GcwCE9i3hM8wvM7gK7_OIaQGL-kjIYGU95KC6xoY-EEDpDUowzT-ez?width=1024&height=576&cropmode=none
-
+#  - name: Professional
+#    web_url: /profession
+#    image_url: https://mpng.subpng.com/20190107/pyb/kisspng-scalable-vector-graphics-computer-icons-clip-art-p-asap-tangampcompany-5c335dab209568.8136441115468701871335.jpg
+#  - name: Photograph
+#    web_url: /about
+#    image_url: https://cdn-icons-png.flaticon.com/512/146/146031.png
 
 theme: jekyll-theme-tactile
